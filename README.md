@@ -35,6 +35,11 @@ https://www.youtube.com/watch?v=6kNzG0T44SI -> from LivePython
 
 https://www.youtube.com/watch?v=c5wodlqGK-M -> NDC conference with asyncio (year 2017)
 
+Extra more but important:
+
+https://www.youtube.com/watch?v=bckD_GK80oY
+
+https://www.youtube.com/watch?v=S6lPNa-9y-U
 
 From realpython:
 
