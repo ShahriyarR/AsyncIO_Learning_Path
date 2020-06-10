@@ -26,12 +26,30 @@ From PyCon UK - (dropped at the beginning no need to watch if you are going):
 
 * [Asynchronous Web Development with Flask](https://www.youtube.com/watch?v=gJ7CnUX_7YQ)
 
+From Fosdem 2020 - nice slide, nice talk:
+
+* [Asyncio: understanding async and await in Python](https://www.youtube.com/watch?v=y1rk64e9vCA)
+
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
 
-https://www.youtube.com/watch?v=LO61F07s7gw -> In Russian
+https://www.youtube.com/watch?v=7F0CTBvHgLc
 
-https://www.youtube.com/watch?v=y1rk64e9vCA
+https://www.youtube.com/watch?v=1K244l0L_mA
+
+https://www.youtube.com/watch?v=SMY3fdJjOOg
+
+https://www.youtube.com/watch?v=7JtNiwCH_OA
+
+https://www.youtube.com/watch?v=EGsXiJ5BmWo
+
+https://www.youtube.com/watch?v=lAOqvPbzPt0
+
+https://www.youtube.com/watch?v=7AoANOGIDuM
+
+https://www.youtube.com/watch?v=5ZUXg5uzrGU
+
+https://www.youtube.com/watch?v=LO61F07s7gw -> In Russian
 
 https://www.youtube.com/watch?v=F19R_M4Nay4&feature=youtu.be -> using Pycharm
 
