@@ -11,7 +11,20 @@ Maybe the most easy to understand and informative tutorial:
 * [Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)
 
 Another neat intro:
+
 * [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw)
+
+These 3 videos are from CPython Core developer and it will explore what a hack is under the hood of asyncio:
+
+* [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
+
+From PyCon Israel 2019 - (no need to watch if you are going)
+
+* [Async/Awaiting Production - Ronnie Sheer](https://www.youtube.com/watch?v=pIXiChn5j4E)
+
+From PyCon UK - (dropped at the beginning no need to watch if you are going):
+
+* [Asynchronous Web Development with Flask](https://www.youtube.com/watch?v=gJ7CnUX_7YQ)
 
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
@@ -19,8 +32,6 @@ The list for watching - will be updated with descriptions.
 https://www.youtube.com/watch?v=LO61F07s7gw -> In Russian
 
 https://www.youtube.com/watch?v=y1rk64e9vCA
-
-https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB -> Playlist from core developer
 
 https://www.youtube.com/watch?v=F19R_M4Nay4&feature=youtu.be -> using Pycharm
 
