@@ -31,30 +31,44 @@ This paid course helped me to get ready: `[+]`
 
 * [Asyncio: understanding async and await in Python](https://www.youtube.com/watch?v=y1rk64e9vCA)
 
+`[+]` Asynchronous workers in Python - Sławomir Mucha - 4Developers (Low quality sound and video. No need to follow.):
+
+* [Asynchronous workers in Python - Sławomir Mucha - 4Developers](https://www.youtube.com/watch?v=7F0CTBvHgLc)
+
+`[+]` Coroutines and Asyncio -- A Beginner's Guide - Jacob McSwain: OKC Python.
+5 minutes talk. I don't think it is worth to watch.
+
+* [Coroutines and Asyncio -- A Beginner's Guide - Jacob McSwain: OKC Python](https://www.youtube.com/watch?v=1K244l0L_mA)
+
+`[+]` How to Speed Up Your Python Code with Asyncio (low quality video and sound - dropped)
+
+* [How to Speed Up Your Python Code with Asyncio](https://www.youtube.com/watch?v=EGsXiJ5BmWo)
+
+`[+]` Demystifying Coroutines and Asynchronous Programming in Python - Nice, clean, historical view.
+
+* [Demystifying Coroutines and Asynchronous Programming in Python](https://www.youtube.com/watch?v=7AoANOGIDuM)
+
+`[+]`  How to use Asyncio or a Simple TUTORIAL on Asyncio || Playing with Asyncio -> clean toy example code.
+
+* [How to use Asyncio or a Simple TUTORIAL on Asyncio || Playing with Asyncio](https://www.youtube.com/watch?v=1Btb5-SWeM8)
+
+
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
 
-https://www.youtube.com/watch?v=7F0CTBvHgLc
+https://www.youtube.com/playlist?list=PLaDyYdZGRivgu0ASt-9cyVwXfU_E9rwhF
 
-https://www.youtube.com/watch?v=1K244l0L_mA
-
-https://www.youtube.com/watch?v=SMY3fdJjOOg
+https://www.youtube.com/watch?v=vem5GHboRNM
 
 https://www.youtube.com/watch?v=7JtNiwCH_OA
 
-https://www.youtube.com/watch?v=EGsXiJ5BmWo
-
 https://www.youtube.com/watch?v=lAOqvPbzPt0
-
-https://www.youtube.com/watch?v=7AoANOGIDuM
 
 https://www.youtube.com/watch?v=5ZUXg5uzrGU
 
 https://www.youtube.com/watch?v=LO61F07s7gw -> In Russian
 
 https://www.youtube.com/watch?v=F19R_M4Nay4&feature=youtu.be -> using Pycharm
-
-https://www.youtube.com/watch?v=1Btb5-SWeM8 -> some tutorial
 
 https://www.youtube.com/watch?v=0kXaLh8Fz3k -> From PyCon 2018
 
