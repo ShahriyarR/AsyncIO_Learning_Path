@@ -1,32 +1,33 @@
 # AsyncIO_Learning_Path
-My learning path and also resources list for learning Python asyncio
+My learning path and also resources list for learning Python asyncio.
 
-Initial commit; will be updated gradually.
-This paid course helped me to get ready:
+`[+]` sign indicates that, I watched it.
+
+This paid course helped me to get ready: `[+]`
 
 * [Educative.oi - Python Concurrency](https://www.educative.io/courses/python-concurrency-for-senior-engineering-interviews/)
 
-Maybe the most easy to understand and informative tutorial: 
+`[+]` Maybe the most easy to understand and informative tutorial: 
 
 * [Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)
 
-Another neat intro:
+`[+]`Another neat intro: 
 
 * [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw)
 
-These 3 videos are from CPython Core developer and it will explore what a hack is under the hood of asyncio:
+`[+]` These 3 videos are from CPython Core developer and it will explore what a hack is under the hood of asyncio: 
 
 * [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
 
-From PyCon Israel 2019 - (no need to watch if you are going)
+`[+]` From PyCon Israel 2019 - (no need to watch if you are going):
 
 * [Async/Awaiting Production - Ronnie Sheer](https://www.youtube.com/watch?v=pIXiChn5j4E)
 
-From PyCon UK - (dropped at the beginning no need to watch if you are going):
+`[+]` From PyCon UK - (dropped at the beginning no need to watch if you are going):
 
 * [Asynchronous Web Development with Flask](https://www.youtube.com/watch?v=gJ7CnUX_7YQ)
 
-From Fosdem 2020 - nice slide, nice talk:
+`[+]` From Fosdem 2020 - nice slide, nice talk:
 
 * [Asyncio: understanding async and await in Python](https://www.youtube.com/watch?v=y1rk64e9vCA)
 
