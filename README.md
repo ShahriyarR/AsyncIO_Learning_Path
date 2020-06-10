@@ -4,11 +4,14 @@ My learning path and also resources list for learning Python asyncio
 Initial commit; will be updated gradually.
 This paid course helped me to get ready:
 
-[Educative.oi - Python Concurrency](https://www.educative.io/courses/python-concurrency-for-senior-engineering-interviews/)
+* [Educative.oi - Python Concurrency](https://www.educative.io/courses/python-concurrency-for-senior-engineering-interviews/)
 
 Maybe the most easy to understand and informative tutorial: 
 
-[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)
+* [Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)
+
+Another neat intro:
+* [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw)
 
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
