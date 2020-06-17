@@ -15,7 +15,8 @@ This paid course helped me to get ready: `[+]`
 
 * [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw)
 
-`[+]` These 3 videos are from CPython Core developer and it will explore what a hack is under the hood of asyncio: 
+`[+]` These video playlist are from CPython Core developer and EdgeDB 
+and it will explore what a hack is under the hood of asyncio: 
 
 * [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
 
@@ -52,6 +53,9 @@ This paid course helped me to get ready: `[+]`
 
 * [How to use Asyncio or a Simple TUTORIAL on Asyncio || Playing with Asyncio](https://www.youtube.com/watch?v=1Btb5-SWeM8)
 
+`[+]` The nice, concise talk about internals of coroutines and CPython VM - extremely valuable.
+
+* ["What is a Coroutine Anyway?" - John Reese (North Bay Python 2019)](https://www.youtube.com/watch?v=GSiZkP7cI80)
 
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
