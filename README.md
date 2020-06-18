@@ -15,6 +15,11 @@ This paid course helped me to get ready: `[+]`
 
 * [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw)
 
+`[+]` The excellent cook/waiter example:
+
+* [Python Asyncio for Beginners](https://www.youtube.com/playlist?list=PLaDyYdZGRivgu0ASt-9cyVwXfU_E9rwhF
+)
+
 `[+]` These video playlist are from CPython Core developer and EdgeDB 
 and it will explore what a hack is under the hood of asyncio: 
 
@@ -57,10 +62,22 @@ and it will explore what a hack is under the hood of asyncio:
 
 * ["What is a Coroutine Anyway?" - John Reese (North Bay Python 2019)](https://www.youtube.com/watch?v=GSiZkP7cI80)
 
+`[+]` Great talk about asyncio usage - learned a lot:
+
+* [Lynn Root - Advanced asyncio: Solving Real-world Production Problems - PyCon 2019](https://www.youtube.com/watch?v=bckD_GK80oY
+)
+
+`[+]` Nice talk - shows topics with their downsides etc - explains aiomultiprocess
+
+* [John Reese - Thinking Outside the GIL with AsyncIO and Multiprocessing - PyCon 2018](https://www.youtube.com/watch?v=0kXaLh8Fz3k)
+
+`[+]` Nothing special ignored immediately
+
+[concurrency in python | python asyncio | python tutorial](https://www.youtube.com/watch?v=S6lPNa-9y-U)
+
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
 
-https://www.youtube.com/playlist?list=PLaDyYdZGRivgu0ASt-9cyVwXfU_E9rwhF
 
 https://www.youtube.com/watch?v=vem5GHboRNM
 
@@ -74,8 +91,6 @@ https://www.youtube.com/watch?v=LO61F07s7gw -> In Russian
 
 https://www.youtube.com/watch?v=F19R_M4Nay4&feature=youtu.be -> using Pycharm
 
-https://www.youtube.com/watch?v=0kXaLh8Fz3k -> From PyCon 2018
-
 https://www.youtube.com/watch?v=qfY2cqjJMdw -> again some tutorial
 
 https://www.youtube.com/watch?v=ReXxO_azV-w -> from Yuriy Selivanov Python 3.7/3.8
@@ -86,11 +101,6 @@ https://www.youtube.com/watch?v=6kNzG0T44SI -> from LivePython
 
 https://www.youtube.com/watch?v=c5wodlqGK-M -> NDC conference with asyncio (year 2017)
 
-Extra more but important:
-
-https://www.youtube.com/watch?v=bckD_GK80oY
-
-https://www.youtube.com/watch?v=S6lPNa-9y-U
 
 From realpython:
 
