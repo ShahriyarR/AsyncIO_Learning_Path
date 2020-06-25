@@ -75,6 +75,10 @@ and it will explore what a hack is under the hood of asyncio:
 
 [concurrency in python | python asyncio | python tutorial](https://www.youtube.com/watch?v=S6lPNa-9y-U)
 
+`[+]` Very nice talk and showcase clear explanation - using Trio - but do not worry the idea is the same.
+
+[Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
+
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
 
