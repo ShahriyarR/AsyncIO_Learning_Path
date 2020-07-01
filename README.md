@@ -73,19 +73,19 @@ and it will explore what a hack is under the hood of asyncio:
 
 `[+]` Nothing special ignored immediately
 
-[concurrency in python | python asyncio | python tutorial](https://www.youtube.com/watch?v=S6lPNa-9y-U)
+* [concurrency in python | python asyncio | python tutorial](https://www.youtube.com/watch?v=S6lPNa-9y-U)
 
-`[+]` Very nice talk and showcase clear explanation - using Trio - but do not worry the idea is the same.
+`[+]` Very nice talk and showcase clear explanation - using Trio - but do not worry the idea is the same and even better
 
-[Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
+* [Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
 
 `[+]` Nice talk - explains how things work with Python >= 3.7
 
-[asyncio: what's next | Yury Selivanov @ PyBay2018](https://www.youtube.com/watch?v=vem5GHboRNM)
+* [asyncio: what's next | Yury Selivanov @ PyBay2018](https://www.youtube.com/watch?v=vem5GHboRNM)
 
 `[+]` Awesome talk - explaining problems related asynchronous design usign JavaScript analogy
 
-[Hrvoje Nikšić - Python async/await unraveled - WebCamp Zagreb 2019](https://www.youtube.com/watch?v=7JtNiwCH_OA)
+* [Hrvoje Nikšić - Python async/await unraveled - WebCamp Zagreb 2019](https://www.youtube.com/watch?v=7JtNiwCH_OA)
 
 
 The list for watching - will be updated with descriptions.
