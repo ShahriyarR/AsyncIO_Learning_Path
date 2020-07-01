@@ -79,11 +79,14 @@ and it will explore what a hack is under the hood of asyncio:
 
 [Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
 
+`[+]` Nice talk - explains how things work with Python >= 3.7
+
+[asyncio: what's next | Yury Selivanov @ PyBay2018](https://www.youtube.com/watch?v=vem5GHboRNM)
+
+
+
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
-
-
-https://www.youtube.com/watch?v=vem5GHboRNM
 
 https://www.youtube.com/watch?v=7JtNiwCH_OA
 
