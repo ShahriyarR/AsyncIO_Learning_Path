@@ -87,13 +87,15 @@ and it will explore what a hack is under the hood of asyncio:
 
 * [Hrvoje Nikšić - Python async/await unraveled - WebCamp Zagreb 2019](https://www.youtube.com/watch?v=7JtNiwCH_OA)
 
+`[+]` I am not sure if it is clean enough to understand.
+
+* [Asyncio in the Wild](https://www.youtube.com/watch?v=EX4YsevmZBg)
+
 
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
 
-https://www.youtube.com/watch?v=lAOqvPbzPt0
 
-https://www.youtube.com/watch?v=5ZUXg5uzrGU
 
 https://www.youtube.com/watch?v=LO61F07s7gw -> In Russian
 
