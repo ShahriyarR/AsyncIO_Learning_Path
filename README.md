@@ -83,12 +83,13 @@ and it will explore what a hack is under the hood of asyncio:
 
 [asyncio: what's next | Yury Selivanov @ PyBay2018](https://www.youtube.com/watch?v=vem5GHboRNM)
 
+`[+]` Awesome talk - explaining problems related asynchronous design usign JavaScript analogy
+
+[Hrvoje Nikšić - Python async/await unraveled - WebCamp Zagreb 2019](https://www.youtube.com/watch?v=7JtNiwCH_OA)
 
 
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
-
-https://www.youtube.com/watch?v=7JtNiwCH_OA
 
 https://www.youtube.com/watch?v=lAOqvPbzPt0
 
