@@ -92,10 +92,12 @@ and it will explore what a hack is under the hood of asyncio:
 * [Asyncio in the Wild](https://www.youtube.com/watch?v=EX4YsevmZBg)
 
 
+
+From now I have stopped watching new tutorials as I am done here for now.
+I was able to accomplish given problem using asyncio.
+Good luck guys :) - will be updated.
 The list for watching - will be updated with descriptions.
 (adding here not to forget)
-
-
 
 https://www.youtube.com/watch?v=LO61F07s7gw -> In Russian
 
